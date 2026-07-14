@@ -1,3 +1,13 @@
+# MusicVideoFlow-AI Vision
+
+## Purpose
+
+## Problem
 
 ## Vision
-AIによるMV作成ワークフローを作成する
+
+## Long-term Goal
+
+## Development Philosophy
+
+## MVP
